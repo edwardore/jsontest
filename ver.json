@@ -1,4 +1,7 @@
-[ {"version":"1.3.0"},
+[ {"version":"1.4.0"},
+{"1.4.0": [ 
+ {"url":"https://raw.githubusercontent.com/edwardore/jsontest/master/b4.json", "bolumno":"4","sezonno":"1"} 
+ ] },
 {"1.3.0": [ 
  {"url":"https://raw.githubusercontent.com/edwardore/jsontest/master/b3.json", "bolumno":"3","sezonno":"1"} 
  ] },
